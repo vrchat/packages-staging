@@ -1,7 +1,7 @@
 {
-	"name" : "Official",
-	"id":"com.vrchat.repos.official",
-	"description" : "Official Packages for the VRChat SDK",
+	"name" : "Official-Staging",
+	"id":"com.vrchat.repos.official-staging",
+	"description" : "Staging of Official Packages for the VRChat SDK",
 	"author" : {
 		"email" : "developer@vrchat.com",
 		"name" : "VRChat",
@@ -12,7 +12,7 @@
 		"text" : "View on GitHub"
 	},
 	"bannerUrl" : "banner.png",
-	"url" : "https://vrchat.github.io/packages/index.json",
-	"githubRepos" : [ "vrchat/packages" ],
+	"url" : "https://vrchat.github.io/packages-staging/index.json",
+	"githubRepos" : [ "vrchat/packages-staging" ],
 	"packages" : []
 }
