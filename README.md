@@ -1,4 +1,3 @@
-# VRChat Official Packages Listing WIP
+# VRChat Staging For Official Packages Listing
 
-## Status
-![GitHub deployments](https://img.shields.io/github/actions/workflow/status/vrchat/packages/build-listing.yml?label=Build%20Package%20Listing)
+Doesn't look like anything to me...
